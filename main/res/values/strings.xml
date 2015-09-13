@@ -4,7 +4,7 @@
     <string name="conexion">Conexion:</string>
     <string name="wifi">Wifi</string>
     <string name="ninguna">Any</string>
-    <string name="direccionDefecto">http://flashair.com/DCIM/101MSDCF/</string>
+    <string name="direccionDefecto">http://</string>
     <!-- <string name="direccionDefecto">http://flashair.com/DCIM/101MSDCF/</string> -->
     <string name="consultar">Request</string>
     <string name="descargar">Download</string>
