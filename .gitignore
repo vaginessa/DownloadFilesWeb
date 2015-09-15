@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .gradle
 /local.properties
 /.idea/workspace.xml
@@ -6,3 +7,6 @@
 /build
 /captures
 downloadfilesweb.jks
+=======
+/build
+>>>>>>> 9eb81a1f560c9d12575bd0dabd2060816e95b016
